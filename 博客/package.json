@@ -1,0 +1,19 @@
+{
+  "name": "msj-blog",
+  "version": "1.0.0",
+  "author": "reco_luan",
+  "scripts": {
+    "dev": "vuepress dev .",
+    "build": "vuepress build ."
+  },
+  "devDependencies": {
+    "vuepress": "1.5.0",
+    "vuepress-theme-reco": "1.5.5"
+  },
+  "dependencies": {
+    "@vuepress-reco/vuepress-plugin-kan-ban-niang": "^1.0.5",
+    "vue-class-component": "^7.2.3",
+    "vuepress-theme-ting": "^1.4.5"
+  },
+  "description": "msj"
+}
